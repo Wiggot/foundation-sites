@@ -18,3 +18,4 @@ test
 .versions
 .babelrc
 yarn.lock
+.npmrc
