@@ -1,13 +1,13 @@
 {
-  "name": "foundation-sites",
-  "version": "6.4.3",
+  "name": "@wiggot/foundation-extended-lib",
+  "version": "0.0.1",
   "main": "dist/js/foundation.js",
   "browser": "dist/js/foundation.js",
   "module": "js/entries/foundation.js",
   "jsnext:main": "js/entries/foundation.js",
   "typings": "dist/js/foundation.d.ts",
   "description": "The most advanced responsive front-end framework in the world.",
-  "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
+  "author": "Forked from ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "homepage": "http://foundation.zurb.com/sites",
   "scripts": {
     "start": "gulp",
