@@ -8,7 +8,6 @@
   "typings": "dist/js/foundation.d.ts",
   "description": "The most advanced responsive front-end framework in the world.",
   "author": "Forked from ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
-  "homepage": "http://foundation.zurb.com/sites",
   "scripts": {
     "start": "gulp",
     "test": "npm run test:sass && npm run test:javascript:units",
@@ -112,11 +111,7 @@
     "url": "https://github.com/zurb/foundation-sites/issues",
     "email": "foundation@zurb.com"
   },
-  "keywords": [
-    "eyeglass-module",
-    "handlebars-helper-rel",
-    "handlebars-helper-slugify"
-  ],
+  "keywords": [],
   "eyeglass": {
     "name": "foundation",
     "sassDir": "scss",
