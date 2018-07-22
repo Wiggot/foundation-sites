@@ -1,6 +1,6 @@
 {
   "name": "@wiggot/foundation-extended-lib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/js/foundation.js",
   "browser": "dist/js/foundation.js",
   "module": "js/entries/foundation.js",
