@@ -55,3 +55,4 @@ data.json
 npm-debug.log
 foundation-docs
 ./vendor
+.npmrc
