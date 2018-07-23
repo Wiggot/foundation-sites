@@ -1,6 +1,6 @@
 {
-  "name": "foundation-sites",
-  "version": "6.5.0-rc.2",
+  "name": "@wiggot/foundation-extended-lib",
+  "version": "0.0.4",
   "main": "dist/js/foundation.js",
   "browser": "dist/js/foundation.js",
   "module": "js/entries/foundation.js",
@@ -37,7 +37,7 @@
     "array-uniq": "^2.0.0",
     "autoprefixer": "^8.2.0",
     "babel-loader": "^8.0.0-beta.0",
-    "browser-sync": "^2.18.12",
+    "browser-sync": "^2.24.6",
     "browserstack-runner": "^0.7.0",
     "chai": "^4.1.2",
     "chai-jquery": "^2.0.0",
